@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>
+  <img src="https://github.com/images/mona-whisper.gif" alt="mona whisper by github.com" width="60" />
+  Luuhne
+</h1>
+
+<img src="https://lanyard.cnrad.dev/api/1203421606521606269?hideActivity=whenNotUsed&showDisplayName=true&animated=true&theme=dark" alt="lanyard cnrad" />
 
 <!--
 **Luuhne/Luuhne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
