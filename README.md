@@ -1,9 +1,14 @@
 <h1>
-  <img src="https://github.com/images/mona-whisper.gif" alt="mona whisper by github.com" width="60" />
-  Luuhne
+  <img src="https://github.com/images/mona-whisper.gif" alt="Mona Whisper by Github.com" width="60" />
+    Luuhne
 </h1>
 
-<img src="https://lanyard.cnrad.dev/api/1203421606521606269?hideActivity=whenNotUsed&showDisplayName=true&animated=true&theme=dark" alt="lanyard cnrad" />
+<a href="https://discordlookup.com/user/1203421606521606269" title="Discord's Profile" target="_blank" rel="noopener">
+  <img src="https://lanyard.cnrad.dev/api/1203421606521606269?hideActivity=whenNotUsed&showDisplayName=true&animated=true&theme=dark" alt="lanyard cnrad" />
+</a>
+
+# 💬 Nickname explanation
+Luuhne is based on [Lune](https://fr.wikipedia.org/wiki/Lune), a French word for [Moon](https://en.wikipedia.org/wiki/Moon) / Lua.
 
 <!--
 **Luuhne/Luuhne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
