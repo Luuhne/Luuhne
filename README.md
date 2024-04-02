@@ -5,7 +5,7 @@
     style="position: absolute; margin-top: -3px;" 
   />
   <span style="margin-left: 45px;">
-    Luuhne
+    Vayplune
   </span>
 </h1>
 
@@ -24,10 +24,10 @@
   </span>
 </h1>
 
-Luuhne is based on [Lune](https://fr.wikipedia.org/wiki/Lune), a French word for [Moon](https://en.wikipedia.org/wiki/Moon) / Lua.
+Vayplune is based on [Lune](https://fr.wikipedia.org/wiki/Lune), a French word for [Moon](https://en.wikipedia.org/wiki/Moon) / Lua.
 
 <!--
-**Luuhne/Luuhne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vayplune/Vayplune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
