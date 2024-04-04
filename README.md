@@ -10,9 +10,9 @@
 </h1>
 
 <a href="https://discordlookup.com/user/1203421606521606269" title="Discord's Profile" target="_blank" rel="noopener">
-  <center>
+  <p align="center">
     <img src="https://lanyard.cnrad.dev/api/1203421606521606269?hideActivity=false&&idleMessage=Currently%20not%20on%20my%20PlayStation,%20but%20I%20may%20do%20a%20few%20things%20on%20my%20ChromeBook.&showDisplayName=true&animated=true&theme=dark" alt="lanyard cnrad" />
-  </center>
+  </p>
 </a>
 
 <p><!-- Fake <br> for GitHub --></p>
@@ -28,11 +28,11 @@
   </span>
 </h1>
 
-<center>
+<p align="center">
 
 Vayplune is based on [Lune](https://fr.wikipedia.org/wiki/Lune), a French word for [Moon](https://en.wikipedia.org/wiki/Moon) / Lua.
 
-</center>
+</p>
 <!--
 **Vayplune/Vayplune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
